@@ -1,6 +1,6 @@
 # Experiment-10
 
-##Aim
+## Aim
 To understand and implement pointer operations in C++.
 
 ## Software Used
