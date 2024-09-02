@@ -64,3 +64,24 @@ cout<<"After swapByValue- "<<"a = "<<a<<" , "<<"b = "<<b<<endl;
 }
 ```
 ## Outputs:
+
+1.Call By Reference-
+
+![Screenshot 2024-09-02 094701](https://github.com/user-attachments/assets/50dad748-785d-48c8-a42b-d031be56508d)
+
+2.Call By Value-
+
+![Screenshot 2024-09-02 094723](https://github.com/user-attachments/assets/3095961d-f08c-4127-884e-830bf2388cc4)
+
+## Conclusion
+- We explored how to swap numbers using call by value.
+- We also explored how to swap numbers using call by reference.
+
+
+
+
+
+
+
+
+
